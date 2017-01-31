@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github</groupId>
+	<groupId>com.github.kunwardeeps</groupId>
 	<name>User-Agent-Utils</name>
 	<url>https://github.com/kunwardeeps/user-agent-utils</url>
 	<artifactId>UserAgentUtils</artifactId>

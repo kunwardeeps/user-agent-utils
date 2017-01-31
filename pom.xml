@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>eu.bitwalker</groupId>
+	<groupId>com.github</groupId>
 	<name>User-Agent-Utils</name>
-	<url>http://www.bitwalker.eu/software/user-agent-utils</url>
+	<url>https://github.com/kunwardeeps/user-agent-utils</url>
 	<artifactId>UserAgentUtils</artifactId>
 	<version>1.21-SNAPSHOT</version>
 	<description>Utility classes to handle user-agents.</description>
